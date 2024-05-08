@@ -1,3 +1,4 @@
-FROM amancevice/superset
+FROM apache/superset
 
-MAINTAINER Saeed Rahman
+# FROM amancevice/superset
+# MAINTAINER Saeed Rahman
